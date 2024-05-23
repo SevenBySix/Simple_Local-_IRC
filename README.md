@@ -1,5 +1,7 @@
 # Simple_Local-_IRC
 Simple IRC client and server
+A fork of this project is now featured in the University of South Carolina Aiken's CSCI A415 course as part of its curriculum.
+
 This project is a simple chat program that works by sending UDP messages over an LAN network. 
 The project features a simple GUI that includes a chat box showing previous messages, 
 a text box for inputting messages, a button that allows for private messaging between two clients, and a button for displaying the client list. 
